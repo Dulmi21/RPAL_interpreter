@@ -1,0 +1,1 @@
+std::cout << parser.print_string_in_treestack(treeStack)
